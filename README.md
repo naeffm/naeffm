@@ -9,7 +9,8 @@ Tenho buscado uma base sólida unindo **programação, automação e computaçã
 ## 🎓 Certificações
 - ☁️ **Microsoft Azure AZ-900 – Azure Fundamentals**
 - ☕ **Santander Dev Week 2024 – Backend com Java**
-
+- 🐍 **Python - Curso em Vídeo (Gustavo Guanabara)**
+- 
 ---
 
 ## 💻 Tecnologias e estudos atuais
